@@ -5,3 +5,24 @@ body {
 h1 {
     color: red;
 }
+
+img.rounded-corners {
+    border-radius: 50px;
+  }
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+  
+h1 {
+    font-family: brush script m7, cursive;
+}
+
+h2 {
+    font-family: monaco, Monospace;
+}
+
+h3 {
+    font-family: monoaco, monospace;
+}
